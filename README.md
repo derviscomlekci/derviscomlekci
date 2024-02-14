@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derviscomlekci&label=Profile%20views&color=0e75b6&style=flat" alt="derviscomlekci" /> </p>
 
-- 🌱 I’m currently learning **Game Development in Unity and Unreal Engine**
+- 🌱 I’m currently learning Backend Development with .Net and Golang**
 
 - 👨‍💻 All of my projects are available at https://www.artstation.com/derviscomlek https://derviscomlekci.itch.io
 - 📫 How to reach me **derviscomlek@gmail.com**
